@@ -1,7 +1,7 @@
 # 👋 Welcome!
 
-Sou **Eduardo Gabriel Vicente**, desenvolvedor **Front-End / Full Stack** apaixonado por criar interfaces modernas e experiências agradáveis para o usuário.  
-Atualmente estudando e desenvolvendo projetos com **React** e **Vite**.
+Sou **Eduardo Gabriel Vicente**, desenvolvedor formado em **Desenvolvimento Web Full Stack** apaixonado por criar interfaces modernas e experiências agradáveis para o usuário.  
+Atualmente estudando ADS e desenvolvendo projetos com **React** e **Vite**.
 
 ---
 
