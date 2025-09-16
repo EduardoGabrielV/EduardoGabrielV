@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=3A9CDF&width=700&lines=Welcome+to+my+GitHub!;Front-End+and+Full+Stack+Developer;Building+clean+and+modern+interfaces)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=3A9CDF&width=700&lines=Welcome+to+my+GitHub!;Web+Full+Stack+Developer;Building+clean+and+modern+interfaces)](https://git.io/typing-svg)
 
 ---
 
@@ -15,6 +15,14 @@
 ---
 
 ### 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-gabriel-vicente-8687b7327/)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:egabrielvicente6@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EduardoGabrielV)
+<p align="left">
+  <a href="https://www.linkedin.com/in/eduardo-gabriel-vicente-8687b7327/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:egabrielvicente6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/EduardoGabrielV">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
