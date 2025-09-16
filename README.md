@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=3A9CDF&width=700&lines=Welcome+to+my+GitHub!;Web+Full+Stack+Developer;Building+clean+and+modern+interfaces)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0A192F&width=700&lines=Welcome+to+my+GitHub!;Web+Full+Stack+Developer;Building+clean+and+modern+interfaces)](https://git.io/typing-svg)
 
 ---
 
