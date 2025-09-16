@@ -1,11 +1,8 @@
-# 👋 Welcome!
-
-Sou **Eduardo Gabriel Vicente**, desenvolvedor formado em **Desenvolvimento Web Full Stack** apaixonado por criar interfaces modernas e experiências agradáveis para o usuário.  
-Atualmente estudando ADS e desenvolvendo projetos com **React** e **Vite**.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=3A9CDF&width=700&lines=Welcome+to+my+GitHub!;Front-End+and+Full+Stack+Developer;Building+clean+and+modern+interfaces)](https://git.io/typing-svg)
 
 ---
 
-### 🚀 Tecnologias & Ferramentas
+### 🚀 Technologies & Tools
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/>
@@ -17,18 +14,7 @@ Atualmente estudando ADS e desenvolvendo projetos com **React** e **Vite**.
 
 ---
 
-### 📌 Sobre mim
-- 🎯 Foco em desenvolvimento web e boas práticas de UI/UX  
-- 💡 Sempre aprendendo novas tecnologias e compartilhando conhecimento  
-- 🌎 Buscando participar de projetos criativos e colaborativos  
-
----
-
-### 📫 Contato
+### 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-gabriel-vicente-8687b7327/)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:egabrielvicente6@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EduardoGabrielV)
-
----
-
-> 💻 *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
